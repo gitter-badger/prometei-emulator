@@ -10,3 +10,16 @@ Links on builds binary download.
 
 - PostgreSQL
 - Edit config in "resource/config/main.toml"
+
+## For enter to the emulator
+
+- [Client](https://mega.co.nz/#!PFhT3bJC!nWA8eAhxPz_2L-TzfqQtKPzm_xoEYaOoiQuHs6qyt-Y).
+- If you want to use local server then edit binary files - "scripts/table/ServerSet.bin" and "scripts/txt/server.tx".
+
+## Now working
+
+- Login to the account
+- Enter to the world
+- Chat
+- Movement
+- Sign out 
