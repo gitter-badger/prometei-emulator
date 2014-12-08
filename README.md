@@ -8,7 +8,7 @@ Links on builds binary download.
 
 ## For launch emulator need
 
-- PostgreSQL
+- PostgreSQL (Automatic create database)
 - Edit config in "resource/config/main.toml"
 
 ## For enter to the emulator
