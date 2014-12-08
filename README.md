@@ -14,7 +14,9 @@ Links on builds binary download.
 ## For enter to the emulator
 
 - [Client](https://mega.co.nz/#!PFhT3bJC!nWA8eAhxPz_2L-TzfqQtKPzm_xoEYaOoiQuHs6qyt-Y).
-- If you want to use local server then edit binary files - "scripts/table/ServerSet.bin" and "scripts/txt/server.tx".
+- Two options
+-- Use test server. For this download client and use one of accounts - "admin:admin", "admin2:admin", "admin3:admin", "admin4:admin", "admin5:admin".
+-- Use local server. For this edit binary files - "scripts/table/ServerSet.bin" and "scripts/txt/server.tx".
 
 ## Now working
 
