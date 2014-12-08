@@ -1,0 +1,6 @@
+github.com/go-xorm/xorm
+github.com/lib/pq
+github.com/kdar/factorlog
+github.com/achun/tom-toml
+github.com/Nyarum/binary-parser
+github.com/davidmz/go-charset

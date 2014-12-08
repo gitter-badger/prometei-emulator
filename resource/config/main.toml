@@ -1,0 +1,8 @@
+[config]
+	[config.database]
+	Login = ""
+	Password = ""
+	Name = "piratia"
+
+	[config.server]
+	IP = "0.0.0.0:1973"
