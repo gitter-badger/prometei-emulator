@@ -1,6 +1,8 @@
 Emulator for MMORPG Pirate King Online
 ===
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Nyarum/prometei-emulator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Links on builds binary download.
 
 - [Windows - 08.12.14](https://mega.co.nz/#!yMYxDSaQ!_ih7Qzo6CkEV_KD19tjBuLTcNc6nh33eOCpyr60X8nE).
